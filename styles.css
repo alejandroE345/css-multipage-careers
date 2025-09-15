@@ -1,0 +1,10 @@
+body {
+    background-color: darkslategrey;
+    color: rgb(101, 211, 145);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: dodgerblue;
+}
