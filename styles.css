@@ -1,10 +1,29 @@
 body {
-    background-color: darkslategrey;
-    color: rgb(101, 211, 145);
+    background-color: rgb(47, 78, 55);
+    color: rgba(131, 204, 207, 0.849);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(10, 51, 91, 0.512);
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(36, 82, 82, 0.518);
+}
+
+a{
+    color: lightblue;
+}
+
+.more-info{
+    color: rgb(67, 142, 248);
+    background-color: rgb(27, 93, 6);
+}
+
+#home{
+    color: rgb(67, 142, 248);
+    background-color: rgb(27, 93, 6);
 }
